@@ -1,7 +1,7 @@
 # Attention Is All You Need
 
 ## Basic Information
-- **Authors:** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+- **Authors:** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, Illia Polosukhin
 - **Year:** 2017
 - **Venue:** NeurIPS (Neural Information Processing Systems)
 - **Link:** https://arxiv.org/abs/1706.03762
